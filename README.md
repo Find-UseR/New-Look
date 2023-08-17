@@ -1,3 +1,5 @@
+# New-Look
+
 👗 Welcome to the New Look Cloth Responsive Website Repository!
 
 Step into a world of style and elegance with our meticulously designed responsive website that caters to your fashion cravings. Unveil a curated selection of summer and winter collections, each adorned with irresistible discounts. Our commitment to providing a seamless and immersive shopping experience comes alive through the fusion of HTML, CSS, and JavaScript that powers this fashion haven.
